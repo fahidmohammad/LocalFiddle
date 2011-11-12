@@ -20,7 +20,7 @@
         echo $_POST['html'];
       }
     ?>
-	<script type="text/javascript">
+    <script type="text/javascript">
      // <[CDATA[ 
      <?php
       if(isset($_POST['js'])) 
