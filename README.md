@@ -34,8 +34,6 @@ Have fun with it!
 Planned additions/tweaks
 ------------------------
 
-- -Dynamic resizing of the input fields to utilize the viewport better-
-- -Dynamic resizing of the result iframe-
 - Styling buttons and general layout
 
 Ideas I might/probably will work on
