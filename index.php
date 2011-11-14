@@ -34,6 +34,7 @@
       <iframe id="resultframe" name="resultframe" src="assemble.php"></iframe>
     </div>
     <script type="text/javascript" src="assets/js/jquery-1.7.min.js"></script>
+    <script type="text/javascript" src="assets/js/jquery.tabby-0.12.min.js"></script>
     <script type="text/javascript" src="assets/js/main.js"></script>
   </body>
 </html>
