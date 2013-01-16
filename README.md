@@ -14,7 +14,7 @@ Why LocalFiddle?
 Most likely you'll have heard of [JsFiddle](JsFiddle), the great online front-end try-out
 and even collaboration tool. 
 
-I love LocalFiddle and use it almost daily, but there is one thing that bugs me
+I love jsFiddle and use it almost daily, but there is one thing that bugs me
 about it. Due to its massive popularity, the servers are often that smothered by
 the vast amount of requests that it tends to be very slow upon pressing the 'run'
 button. Sometimes you just want to try something very quick, and then you don't
